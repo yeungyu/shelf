@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a9f419d6d0b6d062",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a912efa8f0797de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82de9226acf829a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utils/前端打包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a39af01e60491566",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f9a81a3ddf3424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b36bf08f344b8e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "651eaacfe36bf4ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38b0f09aed8615f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "717afbad8cd29012",
+    "type": "split",
+    "children": [
+      {
+        "id": "36801735aa1a5c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6469a2a2af0109df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "utils/前端打包.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "534b0efe50425931",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "utils/前端打包.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3efdb71461fac7d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f6acd8e1dc8990c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "utils/前端打包.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82de9226acf829a3",
+  "lastOpenFiles": [
+    "utils/npm.md",
+    "utils/前端打包.md"
+  ]
+}
