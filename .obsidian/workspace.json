@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utils/前端打包.md",
+                "file": "js/基础api运用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a35f663b4d7e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/promise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "717afbad8cd29012",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utils/前端打包.md",
+                "file": "js/promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utils/前端打包.md",
+                "file": "js/promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utils/前端打包.md"
+                "file": "js/promise.md"
               }
             }
           }
@@ -137,9 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82de9226acf829a3",
+  "active": "05a35f663b4d7e18",
   "lastOpenFiles": [
-    "utils/npm.md",
-    "utils/前端打包.md"
+    "js/基础api运用.md",
+    "utils/前端打包.md",
+    "utils/npm.md"
   ]
 }
